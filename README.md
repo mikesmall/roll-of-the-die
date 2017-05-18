@@ -1,3 +1,5 @@
-# Roll of the Die
+This one went off the rails after the "Permutations with totals" step.
 
-[See instructions in Alexa.](https://alexa.bitmaker.co/admin/wdi/may-2017/assignments/2338/)
+I must have written that code in a way that didn't lend itself to the steps that followed.
+
+I did my best to learn from what was in the "solutions" folder, and added comments for this purpose.
