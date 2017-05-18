@@ -12,7 +12,7 @@
 #  2 2
 #  ....and so on.
 
-die_rolls =[1, 2, 3, 4, 5, 6]
+die_rolls = [1, 2, 3, 4, 5, 6]
 
 # 2.times do
 #   die = Random.rand(1..6)
